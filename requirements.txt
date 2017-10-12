@@ -1,0 +1,3 @@
+quantmod
+plyr
+dplyr
